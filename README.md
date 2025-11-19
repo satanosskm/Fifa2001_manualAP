@@ -1,7 +1,6 @@
 # FIFA 2001 (PS2) — Archipelago Manual
 
-**Intro**
-This Archipelago manual is adapted from an earlier FIFA 98 (PS1) manual I previously created. It has been revised for FIFA 2001 on PlayStation 2.
+This Archipelago manual is adapted from an earlier [FIFA 98 (PS1) manual](https://github.com/satanosskm/Fifa98RTWC) I previously created. It has been revised for FIFA 2001 on PlayStation 2.
 
 ---
 
@@ -31,4 +30,5 @@ Play friendly matches using teams allowed by the unlocked leagues, under unlocke
 - **Main objective:** Obtain **40 medals** out of 50.
 
 ## Notes
+
 - Gamespeeds are included in this version (added since the FIFA 98 manual).
